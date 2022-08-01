@@ -36,6 +36,6 @@
  
 Перезапускаем Notepad++, теперь во вкладке Макросы мы видим наш макрос.
 
-![](https://docs.google.com/uc?id=17LpcS5-i-eF0hSHTjxIPW070hto7opBI)
+![](https://docs.google.com/uc?id=1D4SNpjP3iGgTjzTlFDksgK4EdmBGGudu)
 
 Для того, чтобы перевести кириллический текст в латиницу. Выделяем его левой кнопкой мыши (обязательно!!!), выбираем Макросы - > erz_latinica. Текст автоматически будет изменен.
