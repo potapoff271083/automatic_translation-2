@@ -6,7 +6,7 @@
 <hr>
 
 ### Порядок установки
-1. Устанавливаем программу Notepad++ с их официального сайта https://notepad-plus-plus.org/downloads/
+1. Устанавливаем программу Notepad++ с официального сайта https://notepad-plus-plus.org/downloads/
 
 1. Устанавливаем макрос в программу Notepad++ :
 
